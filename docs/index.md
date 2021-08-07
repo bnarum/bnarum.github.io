@@ -12,5 +12,3 @@ I specialize in stochastic programming, scenario generation and decision-making 
 I collaborate with [Optimeering Aqua AS](https://optimeeringaqua.com/) to develop decision support models for operational risk management in Aquaculture.
 
 [NHH Page](https://www.nhh.no/en/employees/faculty/benjamin-narum/)
-
-(This site is under development.)
