@@ -9,7 +9,7 @@ I'm a PhD Research Scholar in [Operations Research](https://en.wikipedia.org/wik
 
 My research focus is on stochastic programming, scenario generation and decision-making under uncertainty. I specialize on representations of random variables used to solve decision models under uncertainty.
 
-[NHH Page](https://www.nhh.no/en/employees/faculty/benjamin-narum/)
+[Profile Page at NHH](https://www.nhh.no/en/employees/faculty/benjamin-narum/)
 
 # Projects
 
@@ -34,3 +34,10 @@ DOI: [10.1111/itor.13317](http://doi.org/10.1111/itor.13317)
 > Benjamin S. Narum, Stein W. Wallace, Geir D. Berentsen and Julio C. Goez
 
 Aquaculture operations is characterized by large capital investments, biological risk, and exposure to highly volatile sales prices. Overall, this leads to great risk exposure and risk management tools can potentially have great impact on their operational planning. We have developed a spatio-temporal forecasting model for salmon lice (a large driver of biological risk and operational costs) to derive the risk exposure of sites along the Norwegian coastline. This is employed in a Multistage Stochastic Program to address operational decisions under uncertainty, combining production and market risk, for a large portfolio of sites. The model builds future operational flexibility into the valuation of standing biomass and aims to time harvests to maximise overall materialised value of standing biomass.
+
+Here is a poster summarising the project, presented at a workshop organised by the Norwegian Operations Reseach Society (NORS):
+<object data="resources/AquaculturePoster.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="resources/AquaculturePoster.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="resources/AquaculturePoster.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
